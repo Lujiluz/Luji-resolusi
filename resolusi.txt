@@ -1,0 +1,4 @@
+Resolusi Zulfajri tahun 2022 :
+- Menguasai dasar-dasar front-end develpoment. Dibuktikan dengan dapat membuat suatu aplikasi web front-end secara utuh.
+- Menguasai dasar-dasar back-end development. Dibuktikan dengan dapat membuat satu kesatuan web secara  utuh.
+-Menguasai bahasa pemrogramman setidaknya diantara C, C++, atau Python. Lebih baik ketiganya!
